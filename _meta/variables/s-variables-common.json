@@ -1,0 +1,6 @@
+{
+  "project": "helloworld",
+  "projectBucket": "serverless.eu-west-1.serverless.helloworld.ordina.be",
+  "domain": "serverless.helloworld.ordina.be",
+  "notificationEmail": "bart.blommaerts@ordina.be"
+}

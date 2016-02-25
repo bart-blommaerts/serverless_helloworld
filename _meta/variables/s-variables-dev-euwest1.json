@@ -1,0 +1,6 @@
+{
+  "region": "eu-west-1",
+  "resourcesStackName": "helloworld-dev-r",
+  "iamRoleArnLambda": "arn:aws:iam::836964591189:role/helloworld-dev-r-IamRoleLambda-TJXIYGWPBD7C",
+  "apiGatewayApi": "helloworld"
+}

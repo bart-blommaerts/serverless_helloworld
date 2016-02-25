@@ -1,0 +1,10 @@
+{
+  "name": "helloworld",
+  "version": "0.0.1",
+  "profile": "serverless-v0.4.2",
+  "location": "https://github.com/bart-blommaerts/serverless_helloworld.git",
+  "author": "",
+  "description": "A Slick New Serverless Project",
+  "custom": {},
+  "plugins": []
+}
